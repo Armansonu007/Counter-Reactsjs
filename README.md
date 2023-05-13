@@ -16,7 +16,7 @@ To install and run the ReactJS Counter project on your local machine, follow the
 
 1. Clone the project repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/reactjs-counter.git
+   git clone https://github.com/Armansonu007/reactjs-counter.git
    ```
 
 2. Install the project dependencies by running the following command inside the project directory:
